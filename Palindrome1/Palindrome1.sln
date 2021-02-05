@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Palindrome1", "Palindrome1\Palindrome1.vcxproj", "{51706369-C74C-4F86-862D-028278586AEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51706369-C74C-4F86-862D-028278586AEB}.Debug|x64.ActiveCfg = Debug|x64
+		{51706369-C74C-4F86-862D-028278586AEB}.Debug|x64.Build.0 = Debug|x64
+		{51706369-C74C-4F86-862D-028278586AEB}.Debug|x86.ActiveCfg = Debug|Win32
+		{51706369-C74C-4F86-862D-028278586AEB}.Debug|x86.Build.0 = Debug|Win32
+		{51706369-C74C-4F86-862D-028278586AEB}.Release|x64.ActiveCfg = Release|x64
+		{51706369-C74C-4F86-862D-028278586AEB}.Release|x64.Build.0 = Release|x64
+		{51706369-C74C-4F86-862D-028278586AEB}.Release|x86.ActiveCfg = Release|Win32
+		{51706369-C74C-4F86-862D-028278586AEB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {33544701-B7E3-4530-ACEF-1B565883E481}
+	EndGlobalSection
+EndGlobal
