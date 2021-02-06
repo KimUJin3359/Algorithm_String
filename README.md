@@ -78,3 +78,19 @@ char* boyer_moore(char text[], char pattern[])
   }
 }
  ```
+
+#### 관련 문제
+[1.Palindrome1](https://github.com/KimUJin3359/String/tree/master/Palindrome1)
+- 'level'과 같이 거꾸로 읽어도 앞에서부터 읽은 것과 같은 문장이나 낱말을 회문이라고 함
+- 8x8 평면 글자판에서 가로, 세로를 모두 보아 제시된 길이를 가진 회문의 총 개수를 구하는 문제
+
+[2.Palindrome2](https://github.com/KimUJin3359/String/tree/master/Palindrome2)
+- 100x100 평면 글자판에서 가로, 세로를 모두 보아 가장 긴 회문의 길이를 구하는 문제
+
+[3.String](https://github.com/KimUJin3359/String/tree/master/String)
+- 문자열에서 parsing 하는 문자열의 개수 구하기
+- **boyer-moore 알고리즘**을 알기 전, brute-force로 구현했던 문제
+- boyer-moore 알고리즘을 위에서 구현했기 때문에 새로 풀지는 않음
+
+[4.String_library](https://github.com/KimUJin3359/String/blob/master/String_library/String_library/string_library.cpp)
+- atoi, itoa, strlen, strcpy, strcmp를 구현
